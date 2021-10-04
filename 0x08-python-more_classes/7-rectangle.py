@@ -3,7 +3,6 @@
 """
 
 
-
 class Rectangle:
     """Represents a 2D Polygon with 4 perpendicular sides.
     """
